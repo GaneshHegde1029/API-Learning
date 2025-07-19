@@ -17,17 +17,17 @@ All powered by `fetch()` and modern JavaScript — perfect for learning and expe
 
 > Interactive layout includes buttons to fetch & display different data and a form to add new posts:
 
-+------------------------+
-| Fetch API Demo |
-+------------------------+
-| [Get Text] [Get Users] [Get Posts] |
-+------------------------+
+## +------------------------+
+## | Fetch API Demo |
+## +------------------------+
+## | [Get Text] [Get Users] [Get Posts] |
+## +------------------------+
 
-[ Post display section outputs here ]
+## [ Post display section outputs here ]
 
-+------------------------+
-| Add Post Form Here |
-+------------------------+
+## +------------------------+
+## | Add Post Form Here |
+## +------------------------+
 
 
 ## 🛠️ Tech Stack
@@ -49,9 +49,9 @@ fetch-api-sandbox/
 
 ## 👩‍💻 Getting Started
 
-1. **Clone this repo**
-git clone https://github.com/yourusername/fetch-api-sandbox.git
-cd fetch-api-sandbox
+## 1. **Clone this repo**
+## git clone https://github.com/yourusername/fetch-api-sandbox.git
+## cd fetch-api-sandbox
 
 
 2. **Start your browser**
