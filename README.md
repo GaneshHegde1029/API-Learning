@@ -17,17 +17,17 @@ All powered by `fetch()` and modern JavaScript — perfect for learning and expe
 
 > Interactive layout includes buttons to fetch & display different data and a form to add new posts:
 
-## +------------------------+
-## | Fetch API Demo |
-## +------------------------+
-## | [Get Text] [Get Users] [Get Posts] |
-## +------------------------+
+<br> +------------------------+
+<br> | Fetch API Demo |
+<br> +------------------------+
+<br> | [Get Text] [Get Users] [Get Posts] |
+<br> +------------------------+
 
-## [ Post display section outputs here ]
+<br> [ Post display section outputs here ]
 
-## +------------------------+
-## | Add Post Form Here |
-## +------------------------+
+<br> +------------------------+
+<br> | Add Post Form Here |
+<br> +------------------------+
 
 
 ## 🛠️ Tech Stack
@@ -41,17 +41,17 @@ All powered by `fetch()` and modern JavaScript — perfect for learning and expe
 ## 📁 File Structure
 
 fetch-api-sandbox/
-│
-├── index.html # Main HTML file
-├── sample.txt # Sample text content
-├── users.json # Sample users data in JSON
-└── README.md # You're reading it!
+<br>│
+<br>├── index.html # Main HTML file
+<br>├── sample.txt # Sample text content
+<br>├── users.json # Sample users data in JSON
+<br>└── README.md # You're reading it!
 
 ## 👩‍💻 Getting Started
 
 ## 1. **Clone this repo**
-## git clone https://github.com/yourusername/fetch-api-sandbox.git
-## cd fetch-api-sandbox
+<br> git clone https://github.com/yourusername/fetch-api-sandbox.git
+<br> cd fetch-api-sandbox
 
 
 2. **Start your browser**
